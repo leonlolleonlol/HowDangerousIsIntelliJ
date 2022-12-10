@@ -1,3 +1,3 @@
 # howDangerousIsIntelliJ
 howDangerousIsIntelliJ  
-extract the zip file
+extract the zip file and enjoy!
